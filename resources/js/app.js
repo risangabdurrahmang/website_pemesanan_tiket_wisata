@@ -1,0 +1,2 @@
+import "flowbite";
+import "./bootstrap";
